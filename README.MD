@@ -25,4 +25,4 @@ Tools Used:
 * Swing (for GUI)
 * Eclipse (IDE)
 
-[screenshot_chess]: https://github.com/rshaghoulian/Chess/blob/master/screenshots/screenshot_chess.PNG
+[screenshot_chess]: https://github.com/rshaghoulian/Chess/blob/master/screenshots/screenshot_chess_300px.png
