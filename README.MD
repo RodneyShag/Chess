@@ -2,16 +2,7 @@
 
 Standard 2-player board game.
 
-![][screenshot_chess]
-
-Languages Used: 
-* HTML
-* CSS
-* SCSS
-
-Tools Used:
-* Koala (for SCSS)
-* Brackets (WebDev-friendly Text Editor)
+![][screenshot_chess_300px]
 
 Unimplemented Chess rules: 
 * Castling
@@ -25,4 +16,4 @@ Tools Used:
 * Swing (for GUI)
 * Eclipse (IDE)
 
-[screenshot_chess]: https://github.com/rshaghoulian/Chess/blob/master/screenshots/screenshot_chess_300px.png
+[screenshot_chess_300px]: https://github.com/rshaghoulian/Chess/blob/master/screenshots/screenshot_chess_300px.png
